@@ -1,6 +1,5 @@
 ###### ignore file
 *.nc
-*.png
 
 ##### venv
 venv/*
