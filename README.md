@@ -4,17 +4,17 @@ display Sentinel-5P (NO2, SO2) Near Real Time (NRTI) data
 ![Demo result](https://i.ibb.co/5kJB2KJ/plot-SO2-total-vertical-column-precision-2020-09-26.png)
 
 ### Requirements
- To Run this tool you need to install Cartopy, netcdf4, xarray and matplotlib library
- Easy install requirements with Python 3.7
+To Run this tool you need to install Cartopy, netcdf4, xarray and matplotlib library
+Easy install requirements with Python 3.7
  
 ### Data download
 You can download Sentinel-5p data from  https://s5phub.copernicus.eu/dhus/#/home
 
 ### How to run
- Open command line and run 'main.py'
- Input path of Sentinel-5p data
- Select the product you want to display when asked?
- File will export in 'export' directory
+Open command line and run 'main.py'
+Input path of Sentinel-5p data
+Select the product you want to display when asked?
+File will export in 'export' directory
  
 
 ### License - MIT
