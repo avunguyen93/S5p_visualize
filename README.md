@@ -4,7 +4,7 @@
 ![Demo result](https://i.ibb.co/5kJB2KJ/plot-SO2-total-vertical-column-precision-2020-09-26.png)
 
 ### Requirements
-	To Run this tool you need to install Cartopy, netcdf4, xarray and matplotlib library
+	To Run this tool you need to install CARTOPY, netcdf4, xarray and matplotlib library
 	Easy install requirements with Python 3.7
  
 ### Data download
