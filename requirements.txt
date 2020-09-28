@@ -15,4 +15,3 @@ scipy==1.5.2
 Shapely==1.7.1
 six==1.15.0
 xarray==0.16.1
-Cartopy @ https://download.lfd.uci.edu/pythonlibs/x2tqcw5k/Cartopy-0.18.0-cp37-cp37m-win_amd64.whl
